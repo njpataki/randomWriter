@@ -1,7 +1,10 @@
 # randomWriter
 
-This program is written in c++ and the source code is contained in the 'src' folder. Qt Creator is a free platform which
-will execute this program. 
+This program is written in c++. To execute it: 
+
+1. Download Qt Creator (a free platform) or use any other platform you prefer.
+2. Right click on 'RandomWriter.pro' file and direct the cursor to Qt Creator or your preferred platform.
+3. Find RandomWriter.cpp (located within the 'src' folder) and execute the code.
 
 This program reads one of three source texts, builds an order-k Markov model for it, and generates random output that 
 follows the frequency patterns of the model.
